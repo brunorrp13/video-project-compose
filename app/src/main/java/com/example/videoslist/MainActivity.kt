@@ -9,7 +9,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.lifecycle.ViewModelProvider
-import com.example.videoslist.presentation.navigation.VideoApp
+import com.example.videoslist.ui.navigation.VideoApp
 import com.example.videoslist.presentation.viewmodel.VideoViewModel
 import com.example.videoslist.ui.theme.VideosListTheme
 

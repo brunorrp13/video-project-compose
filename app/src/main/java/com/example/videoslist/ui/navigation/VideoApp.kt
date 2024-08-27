@@ -1,4 +1,4 @@
-package com.example.videoslist.presentation.navigation
+package com.example.videoslist.ui.navigation
 
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
